@@ -36,3 +36,5 @@ def add_pokemon(request):
 
 class CustomLoginView(LoginView):
     template_name = 'login.html'
+    
+#holaq hace 
